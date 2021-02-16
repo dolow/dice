@@ -1,0 +1,12 @@
+.DS_Store
+.vs
+*.png
+*.ttf
+*.png.meta
+*.ttf.meta
+
+obj/
+Library/
+Logs/
+Packages/
+Temp/
