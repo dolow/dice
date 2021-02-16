@@ -7,7 +7,7 @@
   { "title": "アナログ\nゲーム",   "reference": "http://www.gp-inc.jp/boardgame_ubongo.html" },
   { "title": "TV\nゲーム",        "reference": "https://www.wrapup.playstation.com/ja-jp/5904bf06c29e385c9da12e5aa424286534676ad8cf5c83038910ad0f3f1c11cb/" },
   { "title": "PR",               "reference": "https://www.amazon.co.jp/dp/4862464564/" },
-  { "title": "すごろく",          "reference": "" },
+  { "title": "すごろく",          "reference": "https://github.com/dolow/dice" },
   { "title": "スキル\nセット",     "reference": "https://github.com/dolow" },
   { "title": "がっこう\nこうこう", "reference": "https://ameblo.jp/tokorozawaaisu/entry-11864047888.html" },
   { "title": "がっこう\nせんもん", "reference": "https://trajal.jp/" },
