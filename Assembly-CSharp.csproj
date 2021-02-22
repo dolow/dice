@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Properties\Follow.cs" />
     <Compile Include="Assets\Scripts\Properties\Orbit.cs" />
     <Compile Include="Assets\Scripts\Properties\Static.cs" />
+    <Compile Include="Assets\Scripts\Roles\Clock.cs" />
     <Compile Include="Assets\Scripts\Roles\Dice.cs" />
     <Compile Include="Assets\Scripts\Roles\MainCamera.cs" />
     <Compile Include="Assets\Scripts\Roles\WalkerBehavior.cs" />
